@@ -1,0 +1,26 @@
+.important {
+    background: #ff000033;
+    display: inline-block;
+    border: 2px solid #ff000077;
+    border-radius: 10px;
+}
+
+.signin-box {
+    display: block;
+    padding-top: 15px;
+
+}
+
+.center {
+    margin: auto;
+    padding: 10px;
+    text-align: center;
+}
+
+.panel {
+    border: 2px solid #77777777;
+    border-radius: 10px;
+    display: inline-block;
+    padding: 20px;
+    padding-bottom: 0px;
+}
